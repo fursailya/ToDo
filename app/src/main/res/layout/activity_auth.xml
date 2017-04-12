@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/back"
+    android:scaleType="center"
+    tools:context="todo.app.fursa.todo.activities.AuthActivity">
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/btnGoogleAuth"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="20dp"></com.google.android.gms.common.SignInButton>
+
+
+</FrameLayout>

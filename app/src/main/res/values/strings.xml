@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="todo_title">Поставленные</string>
+    <string name="title_done">Выполненные</string>
+    <string name="title_history">История</string>
+    <string name="add">Добавить</string>
+    <string name="dialog_title">Название</string>
+    <string name="date">Дата</string>
+    <string name="time">Время</string>
+    <string name="priority">Приоритет</string>
+    <string name="OK">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="dialog_title_task">Новая задача</string>
+    <array name="priority_array">
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+        <item>Срочно</item>
+    </array>
+
+    <string name="title_activity_main">MainActivity</string>
+</resources>
